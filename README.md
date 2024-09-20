@@ -56,7 +56,7 @@ OSINT-SPY and its documents are covered with GPL-3.0 (General Public License v3.
 ```
 
 # Contributors
-	1. Sharad Kumar - @sk_security <twitter handler>
+	1. Sarmad Rajput- @sr_security <twitter handler>
 
 # Documentation
 
