@@ -7,7 +7,7 @@ Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It 
 
 # OSINT-SPY Documentation (beta)
 	File Name     :     README
-	Author        :     @sk_security
+	Author        :     @redhathacker
 	Version       :     2.0
 	Website       :     https://docs.osint-spy.io
 
